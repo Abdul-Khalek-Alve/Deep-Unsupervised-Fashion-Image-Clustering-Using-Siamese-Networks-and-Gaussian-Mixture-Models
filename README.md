@@ -1,0 +1,2 @@
+# Deep-Unsupervised-Fashion-Image-Clustering-Using-Siamese-Networks-and-Gaussian-Mixture-Models
+This repository contains the implementation of a deep learning pipeline for unsupervised clustering of fashion images from the Fashion MNIST dataset. The project leverages Siamese Networks to learn discriminative embeddings by comparing image pairs and then applies Gaussian Mixture Models (GMM) to cluster these embeddings probabilistically.
